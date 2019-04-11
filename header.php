@@ -27,8 +27,8 @@
     </head>
 
     <div class="topnav">
-                <a class="active" href="#">Exponent - Calculator</a> 
-                <a href="#About Software">About Software</a>
+                <a class="active" href="index.php">Exponent - Calculator</a> 
+                <a href="about-software.php">About Software</a>
     </div>
 
 
