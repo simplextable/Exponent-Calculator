@@ -24,6 +24,9 @@ include 'header.php';
 
 
     </style>
+    
+    <title>calculate-exponential</title>
+    
 </head>
 
 <div class="main">
